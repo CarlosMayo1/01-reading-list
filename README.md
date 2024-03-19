@@ -24,17 +24,19 @@ With this application the user can keep a limited list of books that can be read
 
 The project was completed following the main characteristics of the design provided, and also due to the importance of the project and in order to practice a little more, I decided to personalize it, adding different style and extra functionalities keeping in mind the complex of the code.
 
-This is the first design provided
-
-![Design provided by the company](./src/assets/first-design.jpg)
-
 Here is the design I made in desktop view
 
-![How the app looks like in desktop view](./src/assets/full-scree.png)
+![How the app looks like in desktop view](./src/assets/full-screen.png)
 
 In mobile
 
 ![How the app look like in mobile view](./src/assets/mobile.png)
+
+This is the first design provided
+
+![Design provided by the company](./src/assets/first-design.jpg)
+
+
 
 ## Challenges during development and Tech used
 
